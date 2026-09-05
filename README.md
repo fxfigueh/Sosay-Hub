@@ -1,2 +1,2 @@
 # Sosay-Hub
-Scripts by 〆 ᶍ̸Figueh
+Scripts hechos por papi figueh :D
