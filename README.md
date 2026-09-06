@@ -1,4 +1,5 @@
-# Sosay-Hub Créditos:
+# 🇪🇸 Spanish
+# Sosay-OS Créditos:
 
 Director: Figueh
 
@@ -20,3 +21,28 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/fxfigueh/Sosay-Hub/re
 | Soon
 
 | Soon
+
+# 🇺🇸 English
+# Sosay-OS Credits:
+
+Director: Figueh
+
+Ideas: Figueh
+
+Programmer: Gemini AI and Figueh
+
+Design: Gemini AI
+
+# Current scripts:
+
+| Server Finder
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fxfigueh/Sosay-Hub/refs/heads/main/Script-Buscador-Server"))()
+
+| Soon
+
+| Soon
+
+| Soon
+
+| Soon
+ 
