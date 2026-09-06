@@ -12,15 +12,15 @@ Diseño: Gemini AI
 # Scripts actuales:
 
 | Buscador de Servidores
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fxfigueh/Sosay-Hub/refs/heads/main/Script-Buscador-Server"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fxfigueh/Sosay-OS/refs/heads/main/Server-Find"))()
 
-| Soon
+| Pronto
 
-| Soon
+| Pronto
 
-| Soon
+| Pronto
 
-| Soon
+| Pronto
 
 # 🇺🇸 English
 # Sosay-OS Credits:
@@ -36,7 +36,7 @@ Design: Gemini AI
 # Current scripts:
 
 | Server Finder
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fxfigueh/Sosay-Hub/refs/heads/main/Script-Buscador-Server"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fxfigueh/Sosay-OS/refs/heads/main/Server-Find"))()
 
 | Soon
 
